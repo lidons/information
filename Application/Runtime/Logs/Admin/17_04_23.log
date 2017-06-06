@@ -1,0 +1,105 @@
+[ 2017-04-23T00:59:25+08:00 ] 127.0.0.1 /admin.php?c=content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031487s ]
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::setStatus() should be compatible with Admin\Controller\CommonController::setStatus($data, $models) G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::listorder() should be compatible with Admin\Controller\CommonController::listorder($model = '') G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-23T00:59:25+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008180s ]
+
+[ 2017-04-23T11:49:14+08:00 ] 127.0.0.1 /admin.php?c=content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007577s ]
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::setStatus() should be compatible with Admin\Controller\CommonController::setStatus($data, $models) G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::listorder() should be compatible with Admin\Controller\CommonController::listorder($model = '') G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-23T11:49:14+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.009426s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009527s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-04-23T17:38:43+08:00 ] 127.0.0.1 /admin.php?c=content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.081563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.039415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039519s ]
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::setStatus() should be compatible with Admin\Controller\CommonController::setStatus($data, $models) G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [2048] Declaration of Admin\Controller\ContentController::listorder() should be compatible with Admin\Controller\CommonController::listorder($model = '') G:\webpage\shooping\Application\Admin\Controller\ContentController.class.php 第 6 行.
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-23T17:38:44+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.166323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.036225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.041485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.041557s ]
+

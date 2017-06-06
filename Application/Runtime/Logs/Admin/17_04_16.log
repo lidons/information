@@ -1,0 +1,264 @@
+[ 2017-04-16T12:50:49+08:00 ] 127.0.0.1 /admin.php?c=login&a=loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000511s ]
+INFO: [ app_init ] --END-- [ RunTime:0.089385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031138s ]
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-16T12:50:49+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.057089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.057284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.366724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.366861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.041113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034278s ]
+
+[ 2017-04-16T23:05:52+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.027137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.027220s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 79 行.
+NOTIC: [8] Undefined variable: admincount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 116 行.
+NOTIC: [8] Undefined variable: newscount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 138 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 160 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 165 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 169 行.
+NOTIC: [8] Undefined variable: positioncount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 182 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.212817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.212882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-04-16T23:05:55+08:00 ] 127.0.0.1 /admin.php?c=login&a=loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-16T23:05:55+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002838s ]
+
+[ 2017-04-16T23:06:13+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 79 行.
+NOTIC: [8] Undefined variable: admincount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 116 行.
+NOTIC: [8] Undefined variable: newscount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 138 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 160 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 165 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 169 行.
+NOTIC: [8] Undefined variable: positioncount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 182 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-04-16T23:06:18+08:00 ] 127.0.0.1 /admin.php?c=menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-16T23:06:18+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001127s ]
+
+[ 2017-04-16T23:06:29+08:00 ] 127.0.0.1 /admin.php?c=login&a=check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `cms_admin` [ RunTime:0.2586s ]
+SQL: SELECT * FROM `cms_admin` WHERE ( username="admin" ) LIMIT 1   [ RunTime:0.0163s ]
+
+[ 2017-04-16T23:06:30+08:00 ] 127.0.0.1 /admin.php?c=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 79 行.
+NOTIC: [8] Undefined variable: admincount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 116 行.
+NOTIC: [8] Undefined variable: newscount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 138 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 160 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 165 行.
+NOTIC: [8] Undefined variable: news G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 169 行.
+NOTIC: [8] Undefined variable: positioncount G:\webpage\shooping\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 182 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2017-04-16T23:06:32+08:00 ] 127.0.0.1 /admin.php?c=menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 80 行.
+NOTIC: [8] Undefined variable: nav G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 102 行.
+NOTIC: [8] Undefined variable: type G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 116 行.
+NOTIC: [8] Undefined variable: type G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 117 行.
+NOTIC: [8] Undefined variable: menus G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 150 行.
+NOTIC: [8] Undefined variable: pageRes G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2017-04-16T23:06:42+08:00 ] 127.0.0.1 /admin.php?c=menu&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\31553d7bb41170a30982ff9dddd5d67e.php 第 80 行.
+NOTIC: [8] Undefined variable: menus G:\webpage\shooping\Application\Runtime\Cache\Admin\31553d7bb41170a30982ff9dddd5d67e.php 第 124 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2017-04-16T23:06:44+08:00 ] 127.0.0.1 /admin.php?c=menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined variable: navs G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 80 行.
+NOTIC: [8] Undefined variable: nav G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 102 行.
+NOTIC: [8] Undefined variable: type G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 116 行.
+NOTIC: [8] Undefined variable: type G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 117 行.
+NOTIC: [8] Undefined variable: menus G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 150 行.
+NOTIC: [8] Undefined variable: pageRes G:\webpage\shooping\Application\Runtime\Cache\Admin\b956215329b6f9aca22277599a4efdfc.php 第 165 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+

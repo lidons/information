@@ -1,0 +1,33 @@
+[ 2017-04-15T11:40:43+08:00 ] 127.0.0.1 /admin.php?c=login&a=loginout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000333s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.040126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040294s ]
+NOTIC: [8] Undefined variable: sing_path G:\webpage\shooping\ThinkPHP\Common\functions.php 第 991 行.
+NOTIC: [8] Undefined variable: module G:\webpage\shooping\ThinkPHP\Common\functions.php 第 994 行.
+NOTIC: [8] Undefined variable: var G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] array_reverse() expects parameter 1 to be array, null given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+NOTIC: [2] http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given G:\webpage\shooping\ThinkPHP\Common\functions.php 第 997 行.
+
+[ 2017-04-15T11:40:44+08:00 ] 127.0.0.1 /admin.php?&c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.011142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001364s ]
+

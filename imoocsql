@@ -1,0 +1,17 @@
+create database imooc_singcms;
+use imooc_singcms;
+DROP TABLE IF EXISTS `cms_admin`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `cms_admin` (
+  `admin_id` mediumint(6) unsigned NOT NULL AUTO_INCREMENT,
+  `username` varchar(20) NOT NULL DEFAULT '',
+  `password` varchar(32) NOT NULL DEFAULT '',
+  `lastloginip` varchar(15) DEFAULT '0',
+  `lastlogintime` int(10) unsigned DEFAULT '0',
+  `email` varchar(40) DEFAULT '',
+  `realname` varchar(50) NOT NULL DEFAULT '',
+  `status` tinyint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY (`admin_id`),
+  KEY `username` (`username`)
+) ENGINE=MyISAM AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
